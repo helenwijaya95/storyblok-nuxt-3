@@ -1,0 +1,1 @@
+export { default } from "file:///E:/Technical%20Playground/storyblok-nuxt-3/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
